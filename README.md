@@ -1,23 +1,261 @@
-<h1 align="center">Hi 👋, I'm Ankita Maru</h1>
-<h3 align="center">Crafting Digital Solutions for a Connected World 👨‍💻 || Frontend/Backend Developer (MERN) || (MonogoDB + ExpressJS + ReactJS + NodeJS) || MERN Stack || Creating Engaging User Interfaces</h3>
+![Jimmy Ramani Banner Image](./Hello.png)
+<!--- <h1 align="center">Hello 👋, I'm Jimmy Ramani</h1> -->
+<h1 align="center"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamaru&label=Profile%20views&color=0e75b6&style=flat" alt="ankitamaru" /> </p>
+[![](https://visitcount.itsvg.in/api?id=jimmy-ramani-0912&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitamaru" alt="ankitamaru" /></a> </p>
+<h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB, Express**
+## 👨🏼‍💻 About Me :
+<img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
-- 📫 How to reach me **ankitamaru90@gmail.com**
+- 👨‍💻 I'm on an exciting journey as a Full Stack Developer @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)** , where I bring creativity and innovation to the tech realm.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What Sparks My Enthusiasm**
+  - 📊 Web Development with **ReactJS, NodeJS, ExpressJS, MongoDB**
+  - 📱 Mobile Apps Magic with **Flutter**
+  - 🌐 Creating Cloud Symphony: **AWS, Docker, Jenkins, Kubernetes, Terraform**
+- 🪖 Giving solution of problems on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
+- 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
+- 💻 Check out my design experiments on [CodePen](https://codepen.io/jimmyramani).
+- 📙 Explore my [Resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
+- 🚀 **Innovative Projects:** Creating something cool that adds value.
+- 📚 **Continuous Learning:** Always hungry for the next challenge.
+- 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ankitamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ankitamaru" height="30" width="40" /></a>
-<a href="https://twitter.com/ankitamaru1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitamaru1990" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ankita-maru-62876019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ankita-maru-62876019a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23326779/ankita-maru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23326779/ankita-maru" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/ankitamaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ankitamaru" height="30" width="40" /></a>
-<a href="https://medium.com/@ankitamaru90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitamaru90" height="30" width="40" /></a>
-</p>
+### 📬 Find me at :
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmyramani)  [![Medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jimmyramani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jimmyramani) [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23302913/jimmy-ramani) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.ramani0912@gmail.com) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jim_my0915)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+## 💻 Tech Stack :
+
+### Languages 🚀
+> Proficient in various languages, including:
+
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/C.png" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/C++.png" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/HTML.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/CSS.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/JS.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Typescript.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center"  width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Dart.png" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani" >
+        <img src="assets/Icons/Python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+### Frontend 🎨
+
+> Specialize in Frontend technologies like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/React.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Flutter.png" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani" >
+        <img src="assets/Icons/Sass.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Tailwind-CSS.png" width="48" height="48" alt="Tailwind-CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Ant-Design.png" width="48" height="48" alt="Ant-Design" />
+      </a>
+      <br>Ant Design
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Material-UI.png" width="48" height="48" alt="Material-UI" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani" >
+        <img src="assets/Icons/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+### Backend 🏬
+
+> Specialize in Backend services like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/NodeJS.png" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/ExpressJS.png" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Firebase.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+### Databases 🛢️
+
+> Work with various databases, including:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Mongodb.png" width="48" height="48" alt="Mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/mysql.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Postgresql.png" width="48" height="48" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+## DevOps 🚀
+
+> In the DevOps realm, use services like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Amazon-Web-Services.png" width="48" height="48" alt="Amazon-Web-Services" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Jenkins.png" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Terraform.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/Vagrant.png" width="48" height="48" alt="Vagrant" />
+      </a>
+      <br>Vagrant
+    </td>
+  </tr>
+</table>
+
+### ORM Tools 🛠️
+
+> Leverage ORM tools such as:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#jimmy-ramani">
+        <img src="assets/Icons/mongoose.png" width="48" height="48" alt="mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+  </tr>
+</table>
+
+## DevSetup 🖥️
+
+<img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37"> <img src="https://img.shields.io/badge/CodePen-555555.svg?&style=flat-square&logo=codepen&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white"> 
+
+## 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&theme=blueberry&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
